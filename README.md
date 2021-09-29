@@ -23,3 +23,5 @@
 
 - [두 정수의 합 구하기](https://github.com/sejong77/Programmers/blob/master/Algorithm/Level1/two-integer-sum.js)
 
+- [x만큼 간격이 있는 n개의 숫자 ](https://github.com/sejong77/Programmers/blob/master/Algorithm/Level1/ssil-number.js)
+
