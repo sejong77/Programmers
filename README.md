@@ -13,6 +13,7 @@
 - [짝수와 홀수](https://github.com/sejong77/Programmers/blob/master/Algorithm/Level1/evenodd.js)
 - [자연수 뒤집어 배열로 만들기](https://github.com/sejong77/Programmers/blob/master/Algorithm/Level1/reverse-array.js)
 - [정수 내림차순으로 배치하기](https://github.com/sejong77/Programmers/blob/master/Algorithm/Level1/reverse-integer.js)
+- [문자열 내림차순으로 배치하기](https://github.com/sejong77/Programmers/blob/master/Algorithm/Level1/reverse-string.js)
 
 - [제일 작은 수 제거하기](https://github.com/sejong77/Programmers/blob/master/Algorithm/Level1/min-remove.js)
 
