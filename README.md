@@ -16,3 +16,5 @@
 
 - [제일 작은 수 제거하기](https://github.com/sejong77/Programmers/blob/master/Algorithm/Level1/min-remove.js)
 
+- [자릿수 더하기](https://github.com/sejong77/Programmers/blob/master/Algorithm/Level1/digit-sum.js)
+
