@@ -27,3 +27,5 @@
 
 - [문자열 마음대로 정렬하기](https://github.com/sejong77/Programmers/blob/master/Algorithm/Level1/want-sort-string.js)
 
+- [문자열 내 p와 y의 갯수](https://github.com/sejong77/Programmers/blob/master/Algorithm/Level1/py-count.js)
+
