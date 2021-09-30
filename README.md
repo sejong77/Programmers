@@ -29,3 +29,5 @@
 
 - [문자열 내 p와 y의 갯수](https://github.com/sejong77/Programmers/blob/master/Algorithm/Level1/py-count.js)
 
+- [나누어 떨어지는 숫자 배열](https://github.com/sejong77/Programmers/blob/master/Algorithm/Level1/remainder-zero-array.js)
+
