@@ -36,6 +36,8 @@
 - [콜라츠 추측](https://github.com/sejong77/Programmers/blob/master/Algorithm/Level1/collatz.js)
 - [하샤드 수](https://github.com/sejong77/Programmers/blob/master/Algorithm/Level1/harshad-number.js)
 
+- [정수 제곱근 판별](https://github.com/sejong77/Programmers/blob/master/Algorithm/Level1/squareroot-discriminant.js)
+
 
 
 ### 월간 코드 챌린지 시즌1
