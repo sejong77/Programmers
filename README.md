@@ -33,6 +33,7 @@
 
 - [이상한 문자 만들기](https://github.com/sejong77/Programmers/blob/master/Algorithm/Level1/strange-string.js)
 - [2016년](https://github.com/sejong77/Programmers/blob/master/Algorithm/Level1/2016.js)
+- [콜라츠 추측](https://github.com/sejong77/Programmers/blob/master/Algorithm/Level1/collatz.js)
 
 
 
