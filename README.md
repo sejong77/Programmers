@@ -32,6 +32,7 @@
 - [나누어 떨어지는 숫자 배열](https://github.com/sejong77/Programmers/blob/master/Algorithm/Level1/remainder-zero-array.js)
 
 - [이상한 문자 만들기](https://github.com/sejong77/Programmers/blob/master/Algorithm/Level1/strange-string.js)
+- [2016년](https://github.com/sejong77/Programmers/blob/master/Algorithm/Level1/2016.js)
 
 
 
