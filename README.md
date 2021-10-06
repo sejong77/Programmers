@@ -42,6 +42,8 @@
 
 - [최대공약수와 최소공배수](https://github.com/sejong77/Programmers/blob/master/Algorithm/Level1/gcd-lcm.js)
 
+- [서울에서 김서방 찾기](https://github.com/sejong77/Programmers/blob/master/Algorithm/Level1/seoul-kim.js)
+
 
 
 ### 월간 코드 챌린지 시즌1
