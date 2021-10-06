@@ -40,6 +40,8 @@
 
 - [시저 암호](https://github.com/sejong77/Programmers/blob/master/Algorithm/Level1/caesar-cipher.js)
 
+- [최대공약수와 최소공배수](https://github.com/sejong77/Programmers/blob/master/Algorithm/Level1/gcd-lcm.js)
+
 
 
 ### 월간 코드 챌린지 시즌1
