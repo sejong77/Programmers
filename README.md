@@ -50,6 +50,8 @@
 
 - [직사각형 별찍기](https://github.com/sejong77/Programmers/blob/master/Algorithm/Level1/square-star.js)
 
+- [k번째 수](https://github.com/sejong77/Programmers/blob/master/Algorithm/Level1/kth-number.js)
+
 
 
 ### 월간 코드 챌린지 시즌1
