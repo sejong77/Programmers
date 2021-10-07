@@ -48,6 +48,8 @@
 
 - [소수 찾기 ](https://github.com/sejong77/Programmers/blob/master/Algorithm/Level1/prime-number.js)
 
+- [직사각형 별찍기](https://github.com/sejong77/Programmers/blob/master/Algorithm/Level1/square-star.js)
+
 
 
 ### 월간 코드 챌린지 시즌1
