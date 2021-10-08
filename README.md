@@ -52,6 +52,8 @@
 
 - [k번째 수](https://github.com/sejong77/Programmers/blob/master/Algorithm/Level1/kth-number.js)
 
+- [모의고사](https://github.com/sejong77/Programmers/blob/master/Algorithm/Level1/mock-test.js)
+
 
 
 ### 월간 코드 챌린지 시즌1
