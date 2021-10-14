@@ -84,3 +84,9 @@
 
 - [나머지가 1이 되는 숫자 찾기](https://github.com/sejong77/Programmers/blob/master/Algorithm/%EC%9B%94%EA%B0%84%EC%BD%94%EB%93%9C%EC%B1%8C%EB%A6%B0%EC%A7%80%EC%8B%9C%EC%A6%8C3/remainder-one.js)
 
+
+
+### 위클리 챌린지
+
+- [부족한 금액 계산하기](https://github.com/sejong77/Programmers/blob/master/Algorithm/%EC%9C%84%ED%81%B4%EB%A6%AC%EC%B1%8C%EB%A6%B0%EC%A7%80/not-enough-money.js)
+
