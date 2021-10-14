@@ -82,3 +82,5 @@
 
 - [없는 숫자 더하기](https://github.com/sejong77/Programmers/blob/master/Algorithm/%EC%9B%94%EA%B0%84%EC%BD%94%EB%93%9C%EC%B1%8C%EB%A6%B0%EC%A7%80%EC%8B%9C%EC%A6%8C3/without-number-sum.js)
 
+- [나머지가 1이 되는 숫자 찾기](https://github.com/sejong77/Programmers/blob/master/Algorithm/%EC%9B%94%EA%B0%84%EC%BD%94%EB%93%9C%EC%B1%8C%EB%A6%B0%EC%A7%80%EC%8B%9C%EC%A6%8C3/remainder-one.js)
+
