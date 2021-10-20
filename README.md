@@ -101,3 +101,10 @@
 ### 2021 카카오 채용연계형 인턴십
 
 - [숫자 문자열과 영단어](https://github.com/sejong77/Programmers/blob/master/Algorithm/2021%EC%B9%B4%EC%B9%B4%EC%98%A4%EC%B1%84%EC%9A%A9%EC%97%B0%EA%B3%84%ED%98%95%EC%9D%B8%ED%84%B4%EC%8B%AD/num-string-english-word.js)
+
+
+
+### 2021 KAKAO BLIND RECRUITMENT
+
+- [신규 아이디 추천](https://github.com/sejong77/Programmers/blob/master/Algorithm/2021KAKAOBLINDRECRUITMENT/new-id.js)
+
