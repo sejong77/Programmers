@@ -104,6 +104,12 @@
 
 
 
+### 2019 KAKAO BLIND RECRUITMENT
+
+- [실패율](https://github.com/sejong77/Programmers/blob/master/Algorithm/2019KAKAOBLINDRECRUITMENT/fail-percent.js)
+
+
+
 ### 2021 KAKAO BLIND RECRUITMENT
 
 - [신규 아이디 추천](https://github.com/sejong77/Programmers/blob/master/Algorithm/2021KAKAOBLINDRECRUITMENT/new-id.js)
