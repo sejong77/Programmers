@@ -104,6 +104,12 @@
 
 
 
+### 2018 KAKAO BLIND RECRUITMENT
+
+- [다트 게임](https://github.com/sejong77/Programmers/blob/master/Algorithm/2018KAKAOBLINDRECRUITMENT/dart-game.js)
+
+
+
 ### 2019 KAKAO BLIND RECRUITMENT
 
 - [실패율](https://github.com/sejong77/Programmers/blob/master/Algorithm/2019KAKAOBLINDRECRUITMENT/fail-percent.js)
