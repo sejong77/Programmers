@@ -70,6 +70,8 @@
 
 - [최솟값 만들기](https://github.com/sejong77/Programmers/blob/master/Algorithm/Level2/make-min.js)
 
+- [최댓값과 최솟값](https://github.com/sejong77/Programmers/blob/master/Algorithm/Level2/max-min.js)
+
 
 
 ### Summer_Winter_Coding(~2018)
