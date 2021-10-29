@@ -68,6 +68,8 @@
 
 - [N개의 최소공배수](https://github.com/sejong77/Programmers/blob/master/Algorithm/Level2/n-lcm.js)
 
+- [최솟값 만들기](https://github.com/sejong77/Programmers/blob/master/Algorithm/Level2/make-min.js)
+
 
 
 ### Summer_Winter_Coding(~2018)
