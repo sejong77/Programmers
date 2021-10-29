@@ -64,6 +64,12 @@
 
 
 
+### Level2
+
+- [N개의 최소공배수](https://github.com/sejong77/Programmers/blob/master/Algorithm/Level2/n-lcm.js)
+
+
+
 ### Summer_Winter_Coding(~2018)
 
 - [소수 만들기](https://github.com/sejong77/Programmers/blob/master/Algorithm/Summer_Winter_Coding/make-prime.js)
