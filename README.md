@@ -76,6 +76,8 @@
 
 - [숫자의 표현](https://github.com/sejong77/Programmers/blob/master/Algorithm/Level2/express-number.js)
 
+- [다음 큰 숫자](https://github.com/sejong77/Programmers/blob/master/Algorithm/Level2/next-max.js)
+
 
 
 ### Summer_Winter_Coding(~2018)
