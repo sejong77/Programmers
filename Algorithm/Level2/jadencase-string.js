@@ -14,9 +14,7 @@ function solution(s) {
     result.push(index);
   }
 
-  let arr = ['', 'abc', 'bcd'];
-
-  console.log(isNaN(undefined));
+  console.log(result.join(' '));
 }
 
 // 테스트
