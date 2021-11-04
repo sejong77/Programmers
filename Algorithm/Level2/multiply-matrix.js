@@ -1,10 +1,10 @@
 /* 행렬의 곱셈 */
 
 function solution(arr1, arr2) {
-  // 행렬의 곱을 삽입할 배열
+  // 1. 행렬의 곱을 삽입할 배열
   let result = [];
 
-  // 3중 for문을 활용하여, 행렬의 곱셉을 구함
+  // 2. 3중 for문을 활용하여, 행렬의 곱셉을 구함
   for (let i = 0; i < arr1.length; i++) {
     result.push([]);
 
