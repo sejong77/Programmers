@@ -84,6 +84,8 @@
 
 - [올바른 괄호](https://github.com/sejong77/Programmers/blob/master/Algorithm/Level2/right-buscket.js)
 
+- [땅따먹기](https://github.com/sejong77/Programmers/blob/master/Algorithm/Level2/land-eat.js)
+
 
 
 ### Summer_Winter_Coding(~2018)
