@@ -62,7 +62,7 @@
 
 - [체육복](https://github.com/sejong77/Programmers/blob/master/Algorithm/Level1/physical.js)
 
-
+- [연속하는 숫자의 합 중 최대값 구하기](https://github.com/sejong77/Programmers/blob/master/Algorithm/Level1/max-sequence.js)
 
 ### Level2
 
