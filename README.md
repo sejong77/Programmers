@@ -129,6 +129,8 @@
 
 - [최소 직사각형](https://github.com/sejong77/Programmers/blob/master/Algorithm/%EC%9C%84%ED%81%B4%EB%A6%AC%EC%B1%8C%EB%A6%B0%EC%A7%80/min-rectangle.js)
 
+- [모음사전](https://github.com/sejong77/Programmers/blob/master/Algorithm/%EC%9C%84%ED%81%B4%EB%A6%AC%EC%B1%8C%EB%A6%B0%EC%A7%80/collection-dictionary.js)
+
 
 
 ### 2019 카카오 개발자 겨울 인턴십
