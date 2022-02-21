@@ -93,8 +93,8 @@
 ### Summer_Winter_Coding(~2018)
 
 - [소수 만들기](https://github.com/sejong77/Programmers/blob/master/Algorithm/Summer_Winter_Coding/make-prime.js)
-
 - [예산](https://github.com/sejong77/Programmers/blob/master/Algorithm/Summer_Winter_Coding/budget.js)
+- [스킬트리](https://github.com/sejong77/Programmers/blob/master/Algorithm/Summer_Winter_Coding/skill-tree.js)
 
 ### 월간 코드 챌린지 시즌1
 
