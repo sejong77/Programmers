@@ -91,6 +91,8 @@
 - [124 나라의 숫자](https://github.com/sejong77/Programmers/blob/master/Algorithm/Level2/124-country.js)
 - [프린터](https://github.com/sejong77/Programmers/blob/master/Algorithm/Level2/printer.js)
 
+- [구명보트](https://github.com/sejong77/Programmers/blob/master/Algorithm/Level2/life-boat.js)
+
 
 
 ### Summer_Winter_Coding(~2018)
