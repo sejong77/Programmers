@@ -89,6 +89,7 @@
 - [가장 큰 수](https://github.com/sejong77/Programmers/blob/master/Algorithm/Level2/max-number.js)
 
 - [124 나라의 숫자](https://github.com/sejong77/Programmers/blob/master/Algorithm/Level2/124-country.js)
+- [프린터](https://github.com/sejong77/Programmers/blob/master/Algorithm/Level2/printer.js)
 
 
 
