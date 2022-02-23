@@ -93,6 +93,8 @@
 
 - [구명보트](https://github.com/sejong77/Programmers/blob/master/Algorithm/Level2/life-boat.js)
 
+- [가장 큰 정사각형 찾기](https://github.com/sejong77/Programmers/blob/master/Algorithm/Level2/biggest-square.js)
+
 
 
 ### Summer_Winter_Coding(~2018)
